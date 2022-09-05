@@ -5,20 +5,19 @@ We help people join the app seamlessly through Google OAuth! <br>
 You can mute/ unmute your mic and turn on/ off your cam! <br>
 
 
-
-![Flipped Meet](/screenshot/Flipped-meet.png)
+![Flipped Meet](/screenshot/logo.png)
 
 ## Live Website
 
-http://camp-code-1.vercel.app/
+https://flipped-meet.vercel.app/
 
 ## Home Page
 
-![Home](/screenshot/home.png)
+![Home](/screenshot/Flipped-meet.png)
 
 ## Room Page
 
-![Explore](/screenshot/room.png)
+![Explore](/screenshot/MeetingRoom.png)
 
 ## Run Locally
 
