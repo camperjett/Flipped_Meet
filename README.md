@@ -4,6 +4,15 @@ We have built this full-stack video meeting app keeping one goal in mind: "Joini
 We help people join the app seamlessly through Google OAuth! <br>
 You can mute/ unmute your mic and turn on/ off your cam! <br>
 
+## Features
+1. Google OAuth
+2. Join meeting by code
+3. Create Meeting
+4. Turn mic on/off
+5. Turn video on/off
+6. Real-time chat in meeting
+7. Multiple users can join a meet
+8. Share Join link by QR Code
 
 ![Flipped Meet](/screenshot/logo.png)
 
